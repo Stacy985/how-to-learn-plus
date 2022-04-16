@@ -1,6 +1,6 @@
-.video__iframe_margin_left {
-  margin-left: 10px;
+.video__iframe {
+  padding-right: 20px;
 }
-.video__iframe_margin_right {
-  margin-right: 10px;
+.video__iframe:last-of-type {
+  padding-right: 0;
 }

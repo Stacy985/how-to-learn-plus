@@ -1,16 +1,15 @@
 .footer__colomn-link {
+  display: block;
   line-height: 18px;
   font-size: 18px;
   font-weight: normal;
   color: #ffffff;
   list-style-type: none;
   text-decoration: none;
+  margin-bottom: 10px;
 }
 .footer__colomn-link:hover {
   opacity: 0.4;
-}
-.footer__colomn-link-margin {
-  margin-bottom: 10px;
 }
 .footer__colomn-link-margin:last-of-type {
   margin-bottom: 0;

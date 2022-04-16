@@ -2,9 +2,7 @@
   color: #2f80ed;
   text-decoration: none;
 }
-.header__link-arrow {
-  color: #2f80ed;
-}
+
 .header__link:hover {
   opacity: 0.4;
 }

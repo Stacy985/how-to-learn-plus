@@ -3,8 +3,5 @@
   height: 608px;
   object-fit: cover;
   object-position: center top;
-}
-
-.khan__book-pic_margin {
-  margin-right: 48px;
+  padding-right: 48px;
 }

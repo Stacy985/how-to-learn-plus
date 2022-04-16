@@ -5,8 +5,5 @@
   display: flex;
   justify-content: center;
   padding-bottom: 100px;
-}
-
-.oakley__two-columns_margin {
-  margin-top: 160px;
+  padding-top: 160px;
 }

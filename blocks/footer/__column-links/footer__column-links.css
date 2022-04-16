@@ -1,17 +1,12 @@
 .footer__column-links {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
   line-height: 18px;
   font-size: 18px;
   font-weight: normal;
   color: #ffffff;
   list-style-type: none;
   text-decoration: none;
-}
-.footer__column-links:hover {
-  opacity: 0.4;
-}
-.footer__column-links-margin {
   margin-bottom: 10px;
-}
-.footer__column-links-margin:last-of-type {
-  margin-bottom: 0;
 }
