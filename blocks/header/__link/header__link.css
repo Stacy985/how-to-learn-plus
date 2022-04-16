@@ -1,11 +1,10 @@
 .header__link {
   color: #2f80ed;
   text-decoration: none;
-  }
-.header__link-arrow{
+}
+.header__link-arrow {
   color: #2f80ed;
 }
-.header__link:hover{
+.header__link:hover {
   opacity: 0.4;
 }
-

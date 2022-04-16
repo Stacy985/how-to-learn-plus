@@ -6,12 +6,12 @@
   list-style-type: none;
   text-decoration: none;
 }
-.footer__column-links:hover{
+.footer__column-links:hover {
   opacity: 0.4;
 }
-.footer__column-links-margin{
+.footer__column-links-margin {
   margin-bottom: 10px;
 }
-.footer__column-links-margin:last-of-type{
+.footer__column-links-margin:last-of-type {
   margin-bottom: 0;
 }

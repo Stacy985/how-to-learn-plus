@@ -1,4 +1,4 @@
-.footer__column_info{
+.footer__column_info {
   flex-basis: 711px;
   display: flex;
   justify-content: space-around;
@@ -8,6 +8,6 @@ ul {
   padding: 0;
   margin: 0;
 }
-h3{
+h3 {
   margin: 0;
 }
