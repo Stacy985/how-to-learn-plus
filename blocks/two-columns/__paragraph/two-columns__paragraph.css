@@ -3,4 +3,8 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  padding-bottom: 30px;
+}
+.two-columns__paragraph:last-of-type {
+  padding-bottom: 0;
 }

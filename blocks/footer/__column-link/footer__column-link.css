@@ -1,4 +1,4 @@
-.footer__colomn-link {
+.footer__column-link {
   display: block;
   line-height: 18px;
   font-size: 18px;
@@ -7,10 +7,8 @@
   list-style-type: none;
   text-decoration: none;
   margin-bottom: 10px;
+  transition: 0.1s linear;
 }
-.footer__colomn-link:hover {
+.footer__column-link:hover {
   opacity: 0.4;
-}
-.footer__colomn-link-margin:last-of-type {
-  margin-bottom: 0;
 }
