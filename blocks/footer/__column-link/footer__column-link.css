@@ -6,9 +6,10 @@
   color: #ffffff;
   list-style-type: none;
   text-decoration: none;
-  margin-bottom: 10px;
   transition: 0.1s linear;
+  margin-bottom: 10px;
 }
+
 .footer__column-link:hover {
   opacity: 0.4;
 }
