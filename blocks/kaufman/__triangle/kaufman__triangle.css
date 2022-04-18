@@ -6,4 +6,5 @@
   top: 10px;
   width: 877px;
   height: 877px;
+  z-index: -1;
 }
